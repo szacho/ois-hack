@@ -24,7 +24,7 @@ ws.on('open', () => {
 ws.on('message', (msg) => {
   if(msg == 'plsvideo') {
     isRecording = true;
-    framesAfterEvent+=framesBeforeEvent; //every button press from Art Centre makes this video longer to see whole action ;]
+    framesAfterEvent+=framesBeforeEvent; //every button press from Art Center makes this video longer to see whole action ;]
   }
   console.log(msg);
 });
