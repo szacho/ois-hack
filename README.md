@@ -18,5 +18,5 @@ Let's accept the challenge and smash guests of Art Center ;]!
     npm start
     npm run cam (not necessary, just for fun)
 
-###Showcase
-video will be here
+###[Video](https://youtu.be/cHu7bWtVPCE)
+
