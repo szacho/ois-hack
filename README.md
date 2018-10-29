@@ -8,15 +8,15 @@ From [source](http://wrocenter.pl/pl/no-pain-no-game-fur/):
 
 Let's accept the challenge and smash guests of Art Center ;]!
 
-###Requirements
+### Requirements
  - node.js + npm
  - phantom.js (to run casper.js script)
  - mencoder (only for making videos)
 
-###Usage
+### Usage
     npm i (be sure of running postinstall script)
     npm start
     npm run cam (not necessary, just for fun)
 
-###[Video](https://youtu.be/WDwvD_WebeM)
+### [Video](https://youtu.be/4gy6W9vfBI8)
 
